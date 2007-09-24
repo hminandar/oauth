@@ -656,7 +656,7 @@ Text</key>
 \f0\i0 \
 
 \f2\b0 \
-Response includes oauth_token, oath_token_secret}</string>
+Response includes oauth_token, oauth_token_secret}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -1717,7 +1717,7 @@ ey>Align</key>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{173.87, 204.427}, {23.8173, 18}}</string>
+			<string>{{173.869, 204.427}, {23.8173, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -3101,7 +3101,7 @@ ey>Align</key>
 		</dict>
 	</array>
 	<key>ModificationDate</key>
-	<string>2007-09-24 11:36:57 -0700</string>
+	<string>2007-09-24 13:41:45 -0700</string>
 	<key>Modifier</key>
 	<string>Larry Halff</string>
 	<key>NotesVisible</key>
@@ -3178,7 +3178,7 @@ ey>Align</key>
 		<key>FitInWindow</key>
 		<false/>
 		<key>Frame</key>
-		<string>{{238, 173}, {879, 825}}</string>
+		<string>{{376, 138}, {879, 825}}</string>
 		<key>ShowRuler</key>
 		<false/>
 		<key>ShowStatusBar</key>
