@@ -9,7 +9,7 @@
 		<string>com.omnigroup.OmniGraffle</string>
 		<string>129.15</string>
 	</array>
-	<key>ApplicationVersion<falsy>
+	<key>ApplicationVersion<truy>
 	<array>
 		<string>com.omnigroup.OmniGraffle</string>
 		<string>129.15</string>
@@ -666,7 +666,7 @@ Text</key>
 \f0\i0 \
 
 \f2\b0 \
-Response includes oauth_token, oauth_token_secret}</string>
+Response includes oauth_token, oauth_token_secret.}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -936,8 +936,8 @@ oauth_version (optional).}</string>
 
 \f1\b0 \
 Request includes \
-oauth_callback (optional),\
-oauth_token (optional).}</string>
+oauth_token (optional),\
+oauth_callback (optional).}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -1072,7 +1072,7 @@ oauth_token (optional).}</string>
 \f2\b0 \
 
 \f3\i0 \
-Response includes oauth_token, oauth_token_secret}</string>
+Response includes oauth_token, oauth_token_secret.}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -2175,7 +2175,7 @@ ey>Align</key>
 			<key>OrthogonalBarAutomatic</key>
 			<true/>
 			<key>OrthogonalBarPosition</key>
-			<real>18.265594482421875</real>
+			<real>18.2652587890625</real>
 			<key>Points</key>
 			<array>
 				<string>{278.532, 409.601}</string>
@@ -2705,8 +2705,8 @@ LineGraphic</string>
 					<integer>12199</integer>
 					<key>Points</key>
 					<array>
-						<string>{207.667, 552.832}</string>
-						<string>{292.696, 552.832}</string>
+						<string>{227.942, 555.961}</string>
+						<string>{312.971, 555.961}</string>
 					</array>
 					<key>Rotation</key>
 					<real>269.25</real>
@@ -2731,7 +2731,7 @@ LineGraphic</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{182.886, 536.714}, {133, 12}}</string>
+					<string>{{203.161, 536.714}, {133, 12}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -2778,7 +2778,7 @@ LineGraphic</string>
 {\fonttbl\f0\fswiss\fcharset77 Helvetica-Bold;\f1\fswiss\fcharset77 Helvetica;}
 {\colorc\pardirnatural
 
-\f0\fs20 \cf0 Consumer Service Provider}</string>
+\f0\fs20 \cf0 Consumer/Service Provider}</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -2788,108 +2788,98 @@ LineGraphic</string>
 			<integer>12198</integer>
 		</dict>
 		<dict>
+			<key>Bounds</key>
+			<string>{{62.9877, 528.054}, {138.598, 24}}</string>
 			<key>Class</key>
-			<string>Group</string>
-			<key>Graphics</key>
-			<array>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>Vertical</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Font</key>
+				<string>Helvetica</string>
+				<key>Size</key>
+				<real>12</real>
+			</dict>
+			<key>ID</key>
+			<integer>12217</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
 				<dict>
-					<key>Bounds</key>
-					<string>{{75.6897, 528.054}, {94, 24}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FitText</key>
-					<string>YES</string>
-					<key>Flow</key>
-					<string>Resize</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Font</key>
-						<string>Helvetica</string>
-						<key>Size</key>
-						<real>12</real>
-					</dict>
-					<key>ID</key>
-					<integer>12202</integer>
-					<key>Shape</key>
-					<string>Rectangle</string>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-							<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dy>
-								<string>{\rtf1\mac\ansicpg10000\cocoartf824\cocoasubrtf420
-{\fonttbl\f0\fswiss\fcharset77 Helvetica-Bold;\f1\fswiss\fcharset77 Helvetica;}
-{\colorc\pardirnatural
-
-\f0\fs20 \cf0 User Web Browser\
-or Manual Entry}</string>
-					</dict>
-					<key>Wrap</key>
+					<key>Draws</key>
 					<string>NO</string>
 				</dict>
+				<key>shadow</key>
 				<dict>
-					<key>Class</key>
-					<string>LineGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Font</key>
-						<string>Helvetica</string>
-						<key>Size</key>
-						<real>12</real>
-					</dict>
-					<key>ID</key>
-					<integer>12203</integer>
-					<key>Points</key>
-					<array>
-						<string>{80.1749, 558.363}</string>
-						<string>{165.204, 558.363}</string>
-					</array>
-					<key>Rotation</key>
-					<real>269.25</real>
-					<key>Style</key>
-					<dict>
-						<key>stroke</key>
-						<dict>
-							<key>Cap</key>
-							<integer>0</integer>
-							<key>HeadArrow</key>
-							<string>SharpArrow</string>
-							<key>HeadScale</key>
-							<real>0.85714292526245117</real>
-							<key>Join</key>
-							<integer>0</integer>
-							<key>TailArrow</key>
-							<string>0</string>
-						</dict>
-					</dict>
+					<key>Draws</key>
+					<string>NO</string>
 				</dict>
-			</array>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+ey>Align</key>
+								<integer>0</integer>
+								<key>Pad</key>
+								<integer>4</integer>
+							Text</key>
+						<string>{\rtf1\mac\ansicpg10000\cocoartf824\cocoasubrtf420
+{\fonttbl\f0\fswiss\fcharset77 Helvetica-Bold;}
+{\colortbl;\red255\green255\fs20 \cf0 Person Using Web Browser\
+or Manual Entry}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowLabelDrop</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Font</key>
+				<string>Helvetica</string>
+				<key>Size</key>
+				<real>12</real>
+			</dict>
 			<key>ID</key>
-			<integer>12201</integer>
+			<integer>12218</integer>
+			<key>Points</key>
+			<array>
+				<string>{82.9025, 557.492}</string>
+				<string>{181.763, 557.879}</string>
+			</array>
+			<key>Rotation</key>
+			<real>269.25</real>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>Cap</key>
+					<integer>0</integer>
+					<key>HeadArrow</key>
+					<string>SharpArrow</string>
+					<key>HeadScale</key>
+					<real>0.85714292526245117</real>
+					<key>Join</key>
+					<integer>0</integer>
+					<key>TailArrow</key>
+					<string>0</string>
+				</dict>
+			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{51.7609, 524.409}, {269.291, 42.5196}}</string>
+			<string>{{61.3494, 524.409}, {284.065, 42.5196}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -3116,7 +3106,7 @@ ey>Align</key>
 		</dict>
 	</array>
 	<key>ModificationDate</key>
-	<string>2007-09-26 11:20:02 -0700</string>
+	<string>2007-09-26 12:16:37 -0700</string>
 	<key>Modifier</key>
 	<string>Todd Sieling</string>
 	<key>NotesVisible</key>
@@ -3191,9 +3181,9 @@ ey>Align</key>
 		<key>Frame</key>
 		<string>{{567, 87}, {806, 757}}</string>
 		<key>VisibleRegion</key>
-		<string>{{0, -46}, {825.028, 670.661}}</string>
+		<string>{{0, 15.6904}, {689.504, 560.494}}</string>
 		<key>Zoom</key>
-		<real>0.9587554931640625</real>
+		<real>1.1472017765045166</real>
 	</dict>
 </dict>
 </plist>
